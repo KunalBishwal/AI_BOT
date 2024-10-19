@@ -4,7 +4,7 @@ import Typed from 'typed.js';
 
 document.addEventListener('DOMContentLoaded', function () {
   var typed = new Typed('.text', {
-    strings: ["Let's create", "Let's brainstorm", "Let's go", "SamarGPT", "Let's explore", "Let's collaborate", "Let's invent", "SamarGPT", "Let's design", "Let's chit-chat", "Let's discover", "SamarGPT"],
+    strings: ["Let's Think", "Let's Create", "Let's Do It", "KUNxGPT", "Let's explore", "Let's collaborate", "Let's invent", "KUNxGPT", "Let's design", "Let's chit-chat", "Let's discover", "KUNxGPT"],
     typeSpeed: 12,
     backSpeed: 12,
     backDelay: 1500,
