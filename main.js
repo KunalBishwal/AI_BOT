@@ -44,7 +44,7 @@ export const userDiv = (data) => {
   <!-- User Chat -->
   <div class="flex items-center gap-2 justify-center fit-content w-auto max-w-full">
     <img
-      src="samarjit.jpeg"
+      src="logo.png"
       alt="user icon"
       class="w-10 h-10 rounded-full"
     />
